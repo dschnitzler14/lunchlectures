@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: lecturesatlunch
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 #remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
