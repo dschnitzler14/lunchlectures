@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+  {% assign curDate = site.time | date: '%Y-%m-%d' %}
+  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+
+
+  {% for post in site.posts %}
+    {% assign postDate = post.date | date: '%Y-%m-%d' %}
+    {% if postDate == curDate %}
+    <h1>
+      <a href="{{ post.meeting_link | relative_url }}"> Join Today's Lecture: {{curDate | date: date_format}} </a>
+    </h1>
+    {% endif %}
+  {% endfor %}
+
+  <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming Lectures" }}</h2>
+  {% assign sorted_posts = site.posts | sort: 'date' %}
+  <ul class="post-list">
+    {% for post in sorted_posts %}
+    {% assign postStartDate = post.date | date: '%Y-%m-%d' %}
+    {% if postStartDate >= curDate %}
+    <li>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.date | date: date_format}}: {{ post.title | escape }} | {{post.speaker_name | escape }}
+        </a>
+        <a>Category: {{ post.categories | join " "}}</a>
+      </h3>
+      {% if site.show_excerpts %}
+      {{ post.excerpt }}
+      {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
