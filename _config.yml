@@ -22,7 +22,7 @@ title: Lectures at Lunch
 email: lecturesatlunch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   At Lectures at Lunch, we believe in the power of community, diversity, and the joy of learning. Whether you’re working from home, a stay-at-home parent, a student, or simply seeking new experiences, our free online lecture series is designed to bring women together from all walks of life to share knowledge, inspire each other, and forge meaningful connections. Our live sessions offer real-time interaction, allowing for engaging discussions and the opportunity to ask questions. Join us every week for a 20-minute presentation followed by a 20-minute discussion, and become part of a vibrant, inclusive, and judgement-free community.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: lecturesatlunch
 
