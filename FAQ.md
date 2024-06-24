@@ -7,7 +7,7 @@ permalink: /faq/
 Navigate to the home page and click the link "Join Today's Lecture". This will take you to a "Google Meet" call, where you can join even if you don't have a google account. Note, this link will only appear on Wednesdays when a lecture is taking place.
 
 # Who can join?
-Absolutely anybody. While the focus of this lecture series is for women, by women, that absolutely does not mean that only women can join. Even if you don't identify as female, you are welcome to sit in for the lecture! 
+Absolutely anybody. While the focus of this lecture series is for women, by women, that absolutely does not mean that only women can join. All genders are are welcome to sit in for the lecture! 
 
 # Is it free?
 Yup! 100% free and always will be!
@@ -47,6 +47,8 @@ We recognise that people from all walks of life will be joining us - at least th
 
 # I want to join the Lectures at Lunch team!
 Great! But: there is no money in this. This is entirely a labour of love, so I'm afraid there is no compensation, but for the warm fuzzy feeling of doing something cool. If that is okay with you, then the good news is that this is absolutely a CV booster! We're always looking for people to help out and support, so if you are interested in doing so, please email use at [{{site.email}}](mailto:{{site.email}})!
+
+At the moment, I have used "us" and "we" throughout this website and on socials. I am not trying to trick you or make you think that this is a bigger enterprise than it actually is. It is more of a hopeful "us" as I would very much like some team members!
 
 # Can I get an email reminder?
 Yes! You can sign up to the mailing list here, where you will get a monthly email outlining the upcoming talks. We promise - no spam!
