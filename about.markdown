@@ -35,3 +35,6 @@ Join us for our next session! Let’s discover, learn, and connect – together.
 
 # Who Started This?
 Me! Hi! My name is Danny (she/her) and work as a postdoctoral researcher in a computational neuroscience lab. I work from home and spend most of my days talking to my dogs. I found myself frequently googling "free online lecture" or "online lunch lectures", partly because I wanted to learn something new, and completely outside my field, but partly also because I've been a little lonely. I missed the experience of attending a live lecture and the discussion that followed, both with my peers and the speaker. Hence, Lectures at Lunch was born! 
+
+
+# [Sign up now](https://mailchi.mp/b281aadcfccb/subscribe-to-lectures-at-lunch)

@@ -51,7 +51,7 @@ Great! But: there is no money in this. This is entirely a labour of love, so I'm
 At the moment, I have used "us" and "we" throughout this website and on socials. I am not trying to trick you or make you think that this is a bigger enterprise than it actually is. It is more of a hopeful "us" as I would very much like some team members!
 
 # Can I get an email reminder?
-Yes! You can sign up to the mailing list here, where you will get a monthly email outlining the upcoming talks. We promise - no spam!
+Yes! You can sign up to the mailing list [here](https://mailchi.mp/b281aadcfccb/subscribe-to-lectures-at-lunch), where you will get a monthly email outlining the upcoming talks. We promise - no spam!
 
 # Feedback
 ... is very, very welcome! If you have any notes or comments or complaints, please let us know so we can improve. Or just shower us in complements! Either way,  email us [{{site.email}}](mailto:{{site.email}}).
